@@ -1,13 +1,14 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "produtos": [
+    {
+      "id": "fd25",
+      "descricao": "Halls de hortelã",
+      "preco": 3
+    },
+    {
+      "id": "5ce5",
+      "descricao": "Quebra-queixo",
+      "preco": 0.4
     }
-  }
+  ]
+}
